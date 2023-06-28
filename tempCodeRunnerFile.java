@@ -1,0 +1,1 @@
+System.out.println(str.matches("[0-9A-F]+"));
